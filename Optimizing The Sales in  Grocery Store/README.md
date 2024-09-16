@@ -20,9 +20,9 @@ Future Work
 	Improve the performance of the Apriori algorithm by tuning the parameters (min_support, min_confidence, min_lift, min_length).
 	Apply the Apriori algorithm to other datasets and evaluate its performance.
 	Use the results to make recommendations for market basket optimization.
-Acknowledgments
+**Acknowledgments**
 This project was inspired by the Apriori algorithm and its applications in market basket analysis. The dataset used in this project is publicly available and was obtained from a reputable source.
-License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
